@@ -93,6 +93,7 @@ from fractions import Fraction
 from collections import Counter
 import itertools
 
+
 # Define the possible outcomes for each die
 X = [1, 1, 1, 1, 0, 0, 0]  # Example: 1 represents a successful outcome, 0 represents an unsuccessful outcome
 Y = [1, 1, 1, 1, 1, 0, 0, 0, 0]  # Example: 1 represents a successful outcome, 0 represents an unsuccessful outcome
