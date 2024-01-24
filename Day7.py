@@ -26,7 +26,6 @@ If you do not wish to read this information from stdin, you can hard-code it int
 # stdDevX = math.sqrt(n) * stdDev;
 # # p = probability(meanX, stdDevX, maxLimit);
 
-
 import math
 
 def cdf(mean, variance, x):
