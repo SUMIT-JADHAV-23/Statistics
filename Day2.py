@@ -43,6 +43,8 @@ if __name__ == '__main__':
     data = list(map(int, input().rstrip().split()))
     res = quartiles(data)
     print(res)
+
+    
 """
 
 
