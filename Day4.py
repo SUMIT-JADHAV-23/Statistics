@@ -92,5 +92,3 @@ prob_BgivenA = prob_AandB / prob_A  # Probability of drawing 'b' given that the 
 
 print(prob_BgivenA)  # Print the result
 
-
-
