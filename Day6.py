@@ -103,7 +103,6 @@ On the second line, print the answer to question 2 (i.e., the probability that a
 # print(NormalDist().cdf(z3) - NormalDist().cdf(z2))
 
 
-
 import math as m
 def cdf(mn, std, x):
     return 0.5 * (1 + m.erf((x-mn)/(std*m.sqrt(2))))
