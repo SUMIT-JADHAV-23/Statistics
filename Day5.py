@@ -7,6 +7,7 @@ The probability of success or failure remains the same for each trial.
 Only the number of success is calculated out of n independent trials.
 Every trial is an independent trial, which means the outcome of one trial does not affect the outcome of another trial.
  """
+
 # Task
 # The ratio of boys to girls for babies born in Russia is 1.09:1.
 # If there is 1 child born per birth, what proportion of Russian families with exactly 6 children will have at least 3 boys?
