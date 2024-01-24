@@ -63,7 +63,6 @@ if __name__ == '__main__':
 # print(Q3)
     
 
-
 """
 #standard deviation
 
@@ -145,7 +144,6 @@ if __name__ == '__main__':
 # print(q3)
 
 # print(q3-q1)
-
 
 
 def interQuartile(values, freqs):
