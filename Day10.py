@@ -1,5 +1,4 @@
 #Multiple line regression
-
 from sklearn import linear_model
 
 first_input=input()
