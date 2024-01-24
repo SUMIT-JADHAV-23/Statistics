@@ -47,8 +47,6 @@ else:
     t = pearson_correlation(X, Y)
     print(round(t, 3))
 
-
-
 """
 Task-2  Spearman's Rank Correlation Coefficient
 Given two n-element data sets, X and Y, calculate the value of Spearman's rank correlation coefficient.
