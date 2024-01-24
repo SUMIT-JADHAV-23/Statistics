@@ -19,6 +19,7 @@ Sum = 9: (3, 6), (4, 5), (5, 4), (6, 3)
 There are 30 favorable outcomes (combinations with sums at most 9). Therefore, the probability is given by:
 P(Sum at most 9)=Number of favorable outcomes/Total number of outcomes=30/36=5/6
 """
+
 # Dice # 1
 dice_1 = [1, 2, 3, 4, 5, 6]
 # Dice # 2
@@ -66,8 +67,6 @@ print(diff_and_sum_to_6)
 print(all_outcomes)
 prob_diff_and_sum_to_6 = diff_and_sum_to_6 / all_outcomes
 print(prob_diff_and_sum_to_6)
-
-
 
 # Task
 # There are  urns labeled X, Y, and Z.
