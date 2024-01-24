@@ -15,7 +15,6 @@ Output Format
 Print a single line denoting the answer, rounded to a scale of 3 decimal places
 """
 
-
 # Enter your code here. Read input from STDIN. Print output to STDOUT
 import statistics
 import math
